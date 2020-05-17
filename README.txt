@@ -28,3 +28,11 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+How to make changes:
+1. control save
+2. go to source control view (third icon down)
+3. hit the plus symbol
+4. press the check to commit
+5. open terminal
+6. type command git push
